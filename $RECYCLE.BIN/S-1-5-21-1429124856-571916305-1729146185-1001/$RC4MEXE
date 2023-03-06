@@ -1,0 +1,35 @@
+[33mcommit 82af981ec02c6fa1852d5000e4e3c1d134fc0218[m[33m ([m[1;36mHEAD -> [m[1;32mdaily/food[m[33m, [m[1;31morgin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: qwe133 <ksg165000@gmail.com>
+Date:   Thu Mar 2 16:11:39 2023 +0900
+
+    생각나는 음식 리스트 추가
+
+[33mcommit 83a9908768598bada76eab9099a8d31dfa6439ea[m
+Author: qwe133 <ksg165000@gmail.com>
+Date:   Thu Mar 2 16:10:24 2023 +0900
+
+    생각나는 메뉴 정리
+
+[33mcommit 5bc5f68d09402d7553882f782669b7d33e2b10de[m
+Author: qwe133 <ksg165000@gmail.com>
+Date:   Thu Mar 2 16:09:01 2023 +0900
+
+    bye 관련
+
+[33mcommit 047527f4909b1527a0da875868abaa3fce4c939b[m
+Author: qwe133 <ksg165000@gmail.com>
+Date:   Thu Mar 2 15:54:17 2023 +0900
+
+    세번째 버전 - hello 수정, bye 삭제, 파일 3개 추가
+
+[33mcommit abca637f7615eacce1af5c92bca073cad7cc9641[m
+Author: qwe133 <ksg165000@gmail.com>
+Date:   Thu Mar 2 15:49:20 2023 +0900
+
+    두번째 버전 생성,hello 수정하고 bye 추가
+
+[33mcommit c2650697e335bb0982d31d52a2a41233412bd989[m
+Author: qwe133 <ksg165000@gmail.com>
+Date:   Thu Mar 2 15:41:56 2023 +0900
+
+    인사하고 싶어서 hello파일 만들었어
